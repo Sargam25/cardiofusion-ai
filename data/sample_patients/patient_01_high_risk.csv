@@ -1,0 +1,2 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target,patient_id
+67,1,4,160,286,0,2,108,1,1.5,2,3.0,3.0,1,PT-HIGH-101

@@ -1,0 +1,2 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target,patient_id
+56,1,2,120,236,0,0,178,0,0.8,1,0.0,3.0,0,PT-MOD-303
